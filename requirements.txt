@@ -1,4 +1,0 @@
-echo Flask==2.3.3 > requirements.txt
-echo requests==2.31.0 >> requirements.txt
-
-
